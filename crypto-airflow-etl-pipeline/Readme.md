@@ -38,7 +38,7 @@ crypto-airflow-etl-pipeline/
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/your-username/crypto-airflow-etl-pipeline.git
+git clone https://github.com/SydHzf/crypto-airflow-etl-pipeline.git
 cd crypto-airflow-etl-pipeline
 ```
 
